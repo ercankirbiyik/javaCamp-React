@@ -1,2 +1,2 @@
-# javaCamp
-Java kodlama dili ile yapılmış örnek bir site girişinde görülebiecek seçeneklerin denemesidir.
+# javaReactCamp
+Java kodlama dili ile yapılmış proje ve denemeler.
